@@ -1,0 +1,2 @@
+custumerdiscounthub.Main
+custumerdiscounthub.CustumerDiscountHub
